@@ -1,4 +1,6 @@
 <================Mingler Social Network Web Application===================>
+
+
 Mingler is a social app that used Django Python Framework, Jquery, Tailwind, AJAX with Jquery
 and Jinja template programming tools in its development
 Main fuctions
