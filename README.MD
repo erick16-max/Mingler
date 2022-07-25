@@ -1,4 +1,4 @@
-   **##Mingler Social Network Web Application**
+   **Mingler Social Network Web Application**
 
 
 Mingler is a social Network app for sharing and posting images, captions and adventious stories 
@@ -8,6 +8,8 @@ Stacks and technologies used are Django Python Framework, Jquery, SQlite Databas
 and Jinja template programming tools.
 
 It is an enhanced application borrowed from **FreeCodeCamp**. Link to the youtube video https://www.youtube.com/watch?v=xSUm6iMtREA&t=16156s
+
+Click [here](quora.com/profile/Ashish-Kulkarni-100) to go to my Quora profile. 
 
 Main fuctionionalities
 1. Users Aunthentication (registration and login)
