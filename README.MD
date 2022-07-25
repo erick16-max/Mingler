@@ -1,4 +1,4 @@
-<================**##Mingler Social Network Web Application**===================>
+   **##Mingler Social Network Web Application**
 
 
 Mingler is a social Network app for sharing and posting images, captions and adventious stories 
