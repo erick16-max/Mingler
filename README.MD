@@ -7,9 +7,8 @@ that users can like and download the posted images, follow each other to see the
 Stacks and technologies used are Django Python Framework, Jquery, SQlite Database, fontawesome Tailwind, AJAX with Jquery
 and Jinja template programming tools.
 
-It is an enhanced application borrowed from **FreeCodeCamp**. Link to the youtube video https://www.youtube.com/watch?v=xSUm6iMtREA&t=16156s
+It is an enhanced application borrowed from **FreeCodeCamp**.Click [here](https://www.youtube.com/watch?v=xSUm6iMtREA&t=16156s) for the link to the youtube video 
 
-Click [here](quora.com/profile/Ashish-Kulkarni-100) to go to my Quora profile. 
 
 Main fuctionionalities
 1. Users Aunthentication (registration and login)
